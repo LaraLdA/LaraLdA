@@ -1,5 +1,7 @@
 ### Olá, eu sou a Lara!
 
+![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraLdA&theme=dark&show_icons=true)
+
 - 🔍🚗 Estou em busca do meu primeiro emprego na área de ciência de dados.
 - 📚 Atualmente estou aprofundando no tema de estatística para análise de dados.
 -
@@ -8,4 +10,3 @@
 </div>
 
 
-![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraLdA&theme=dark&show_icons=true)
