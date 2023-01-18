@@ -1,6 +1,7 @@
 ### Olá, eu sou a Lara!
 
-[![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraLdA&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Lara's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaraLdA&theme=dark&show_icons=true&count_private=true&hide=prs)](https://github.com/LaraLdA/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LaraLdA&layout=compact&theme=dark)](https://github.com/LaraLdAa/github-readme-stats)
 
 
 - 🔍🚗 Sou graduada em Engenharia Mecânica e estou em busca do meu primeiro emprego na área de ciência de dados.
