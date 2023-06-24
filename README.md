@@ -10,11 +10,11 @@
 <details>
   <summary> Sobre mim: </summary>
   
-- 🔍🚗 Sou graduada em Engenharia Mecânica ;
+- 🔍🚗 Sou graduada em Engenharia Mecânica;
   
 - 📉📊Estou em busca do meu primeiro emprego na área de ciência de dados ;
   
-- 📚 Atualmente estou me aprofundando no tema de estatística para análise de dados;
+- 📚 Atualmente estou cursando Ciência de Dados;
 </details>
 </div>  
 
